@@ -1,3 +1,3 @@
 # testOpencvCmake
 
-show how to compile OpenCV project using cmake
+show how to compile an OpenCV project by cmake
